@@ -1,1 +1,5 @@
 # [Nida Q.]'s Notes
+
+## Summary 
+
+This repository contains all of the notes taken by [Nida Q.](https://github.com/Nidz01) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
